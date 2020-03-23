@@ -1,2 +1,3 @@
-# docker-compose-example
-Docker compose client server model example
+Just run in your terminal:
+
+    docker-compose up
