@@ -7,7 +7,7 @@ app.use(cors());
 
 app.get('/', (req, res) => {
   res.json({
-    players: ['abdul', 'jamet']
+    players: ['abdul', 'jamet', 'bambang', 'joko']
   })
 });
 
